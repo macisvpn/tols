@@ -123,14 +123,13 @@ echo "" | lolcat
 echo "" | lolcat
 echo "            --[ SELAMAT DATANG  DI VPS YUSUF-ARDIANSYAH ]--"| boxes -d dog | lolcat
 echo "            ====================================================="| lolcat
-echo "            #           WhatsApp     : 082139743432             #"| lolcat
-echo "            #           Telegram     : CyberSS                  #"| lolcat
-echo "            #           Facebook     : fb.com/t34mh4ck3r        #"| lolcat
-echo "            #           Pin-BBM      : yu-suf                   #"| lolcat
+echo "            #           WhatsApp     : +60138733203             #"| lolcat
+echo "            #           Telegram     : orangkuatsabahanterkini  #"| lolcat
+echo "            #           Facebook     :  -                       #"| lolcat
 echo "            #---------------------------------------------------#"| lolcat
 echo "            #     Silahkan ketik [menu] ENTER untuk pilihan     #"| lolcat
 echo "            #---------------------------------------------------#"| lolcat
-echo "            #    Copyright: © YUSUF-ARDIANSYAH™ Premium 2017    #"| lolcat
+echo "            #    Copyright: © BorneoVpsHosting™ Premium 2017    #"| lolcat
 echo "            ====================================================="| lolcat
 date +"                            %A, %d-%m-%Y" | lolcat
 date +"                                 %H:%M:%S %Z" | lolcat
