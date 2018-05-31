@@ -28,25 +28,12 @@ vps="aneka";
 #if [[ $vps = "zvur" ]]; then
 	#source="http://"
 #else
-	source="https://raw.githubusercontent.com/yusuf-ardiansyah/y"
+	source="https://raw.githubusercontent.com/macisvpn/tols/master"
 #fi
 
 # go to root
 cd
 
-# check registered ip
-wget -q -O IPcarding $source/debian7/IPcarding.txt
-if ! grep -w -q $MYIP IPcarding; then
-	echo "Maaf, hanya IP yang terdaftar yang bisa menggunakan script ini!"
-	if [[ $vps = "zvur" ]]; then
-		echo "Hubungi: editor YUSUS-ARDIANSYAH"
-	else
-		echo "Hubungi: editor YUSUS-ARDIANSYAH"
-	fi
-	rm -f /root/IPcarding
-	rm /root/IPcarding
-	exit
-fi
 clear
 echo "####################################
 # Uniscan project                  #
