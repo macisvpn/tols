@@ -16,7 +16,7 @@ fi
 
 echo "----------------- TAMBAH MASA AKTIF AKUN SSH --------------------"
 
-	echo "        DEVELOPED BY YUSUF-ARDIANSYAH atau (082139743432)           "
+	echo "        DEVELOPED BY BorneoVpsHosting           "
 echo ""
 
 # begin of user-list
@@ -70,9 +70,9 @@ echo -e "   DI LARANG:                              "| lolcat
 echo -e "   HACKING-DDOS-PHISING-SPAM-TORENT        " | lolcat
 echo -e "   CARDING-CRIMINAL CYBER.                 "| lolcat
 echo -e "===========================================" | lolcat
-echo -e "   Script by YUSUF-ARDIANSYAH "       | lolcat
+echo -e "   Script by BorneoVpsHosting "            | lolcat
 echo -e "   Config OVPN:                            "| lolcat
-echo -e "   http://$MYIP:81/client.ovpn        " | lolcat
+echo -e "   http://$MYIP:81/client.ovpn          " | lolcat
 echo -e "-------------------------------------------" | lolcat
 echo -e ""
 echo -e ""
