@@ -23,7 +23,7 @@ clear
 
 
 
-echo "DEVELOPED BY YUSUF-ARDIANSYAH atau (082139743432)"
+echo "DEVELOPED BY BorneoVpsHosting"
 echo ""
 
 cat /root/activeuser.txt
