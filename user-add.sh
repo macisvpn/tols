@@ -18,7 +18,7 @@ fi
 echo "------------------------ MEMBUAT AKUN SSH ------------------------"| lolcat
 
 
-	echo "           DEVELOPED BY YUSUF-ARDIANSYAH atau (082139743432)           " | lolcat
+	echo "           DEVELOPED BY BorneoVpsHosting           " | lolcat
 echo ""
 
 read -p "Isikan username: " username
