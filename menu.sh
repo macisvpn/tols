@@ -75,7 +75,7 @@ do
 	user-pass
 	break
 	;;
-	"Semua User Dan Tanggal Kadaluarsa")
+	"Semua User Dan Tanggal Exp")
 	clear
 	user-list | lolcat
 	break
